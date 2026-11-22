@@ -1,0 +1,8 @@
+{
+  "name": "Vector Drop",
+  "description": "Precision 2D arcade target interceptor inspired by classic grid shooters, featuring 60fps vector physics, combo streaks, and telegraphed targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
